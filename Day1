@@ -1,1 +1,33 @@
-DevOps is a Process of Improving the application Delivery 
+######## DevOps is a Process of Improving the application Delivery By Ensuring 
+
+*Automation 
+*Quality 
+*continous Delivery 
+*Continous Testing 
+
+
+######## Why DevOPs 
+
+Before 10 Year Back 
+
+Deploying Code from Devloper System to Production (Customer) Envirnment is very lenghty Process 
+
+1. System Admin ======> Provision the Server 
+
+2. Server Admin ======> Install Application Server 
+
+3. Build and Relese Engineer ======> Make War File of application and Deploy on Application Server.
+
+######## Self Introduction on DevOps
+
+I am Working as a DevOps Engineer from Last 2 Year, Before that I was working as a Middleware Enginner.
+
+In my current Orgnization I am taking care of 
+
+*Automation
+*Quality 
+*Monitoring
+*Testing 
+
+For Container Orchistration I am Using Kubernetes and Configuration Management Ansible 
+For Infrastruture Management Terraform.
